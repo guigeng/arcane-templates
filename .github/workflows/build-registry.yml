@@ -30,8 +30,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "getarcaneappbot"
-          git config --global user.email "info@getarcane.app"
+          git config --global user.name "guigeng"
+          git config --global user.email "guigeng.ding@gmail.com"
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v5
@@ -52,12 +52,12 @@ jobs:
         env:
           REGISTRY_NAME: Arcane Community Templates
           REGISTRY_DESCRIPTION: Community Docker Compose Templates for Arcane
-          REGISTRY_AUTHOR: getarcaneapp
-          REGISTRY_URL: "https://github.com/getarcaneapp/templates"
-          PUBLIC_BASE: "https://registry.getarcane.app/templates"
-          DOCS_BASE: "https://github.com/getarcaneapp/templates/tree/main/templates"
+          REGISTRY_AUTHOR: guigeng
+          REGISTRY_URL: "https://github.com/guigeng/arcane-templates"
+          PUBLIC_BASE: "https://registry.mifi.xyz/templates"
+          DOCS_BASE: "https://github.com/guigeng/arcane-templates/tree/main/templates"
           BUMP_PART: minor
-          SCHEMA_URL: "https://registry.getarcane.app/schema.json"
+          SCHEMA_URL: "https://registry.mifi.xyz/schema.json"
         run: pnpm run generate
 
       - name: Commit registry.json
@@ -66,9 +66,9 @@ jobs:
           repository: "."
           branch: ""
           commit_message: "chore: update registry.json [skip ci]"
-          commit_user_name: getarcaneappbot
-          commit_user_email: info@getarcane.app
-          commit_author: "getarcaneappbot <info@getarcane.app>"
+          commit_user_name: guigeng
+          commit_user_email: guigeng.ding@gmail.com
+          commit_author: "guigeng <guigeng.ding@gmail.com>"
           commit_options: ""
           file_pattern: "registry.json"
           add_options: ""

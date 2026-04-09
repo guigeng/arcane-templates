@@ -1,9 +1,7 @@
 {
-  "name": "Omniroute",
+  "name": "omniroute",
   "description": "Omnitroute is one api router.",
   "version": "1.0.0",
   "author": "guigeng",
-  "tags": [
-    "api"
-  ]
+  "tags": ["api"]
 }

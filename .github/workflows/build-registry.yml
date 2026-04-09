@@ -17,7 +17,7 @@ concurrency:
 jobs:
   build:
     if: ${{ github.repository_owner != 'getarcaneapp' }}
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     environment:
       name: production
       url: https://registry.mifi.xyz

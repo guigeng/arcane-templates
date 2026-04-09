@@ -12,9 +12,9 @@
       "description": "Omnitroute is one api router.",
       "version": "1.0.0",
       "author": "guigeng",
-      "compose_url": "https://registry.getarcane.app/templates/omniroute/compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/omniroute/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/omniroute",
+      "compose_url": "https://registry.mifi.xyz/templates/omniroute/compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/omniroute/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/omniroute",
       "tags": ["api"]
     },
     {
@@ -23,9 +23,9 @@
       "description": "General purpose HTTP reverse proxy and forwarding tool.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/zoraxy/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/zoraxy/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/zoraxy",
+      "compose_url": "https://registry.mifi.xyz/templates/zoraxy/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/zoraxy/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/zoraxy",
       "tags": ["reverse-proxy"]
     }
   ]

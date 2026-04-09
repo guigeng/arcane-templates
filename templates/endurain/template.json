@@ -1,7 +1,0 @@
-{
-  "name": "Endurain",
-  "description": "Endurain is a fitness tracking with control over their data and hosting environment.",
-  "version": "1.0.0",
-  "author": "rjcndev",
-  "tags": ["fitness", "gps-tracker"]
-}

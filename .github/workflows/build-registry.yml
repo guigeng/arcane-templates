@@ -20,7 +20,7 @@ jobs:
     runs-on: macos-latest
     environment:
       name: production
-      url: https://registry.getarcane.app
+      url: https://registry.mifi.xyz
     steps:
       - name: Checkout
         uses: actions/checkout@v6

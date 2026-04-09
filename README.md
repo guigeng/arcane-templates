@@ -2,7 +2,7 @@
 
 Community-curated Docker Compose templates for [Arcane](https://github.com/ofkm/arcane).
 
-## Using the Registry
+## Using the Registry 
 
 > [!IMPORTANT]
 > The community registry has been updated to the new url `https://registry.getarcane.app/registry.json`, the old registry at `https://templates.arcane.ofkm.dev/registry.json` is considered deprecated and will be removed in the future

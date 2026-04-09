@@ -57,7 +57,7 @@ jobs:
           PUBLIC_BASE: "https://registry.mifi.xyz/templates"
           DOCS_BASE: "https://github.com/guigeng/arcane-templates/tree/main/templates"
           BUMP_PART: minor
-          SCHEMA_URL: "https://registry.mifi.xyz/schema.json"
+          SCHEMA_URL: "https://registry.getarcane.app/schema.json"
         run: pnpm run generate
 
       - name: Commit registry.json

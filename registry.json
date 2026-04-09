@@ -12,9 +12,9 @@
       "description": "AFFiNE is a workspace with fully merged docs, whiteboards and databases.",
       "version": "1.0.0",
       "author": "lesi97",
-      "compose_url": "https://registry.getarcane.app/templates/affine/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/affine/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/affine",
+      "compose_url": "https://registry.mifi.xyz/templates/affine/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/affine/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/affine",
       "tags": ["Productivity", "Notes"]
     },
     {
@@ -23,9 +23,9 @@
       "description": "A lightweight CalDAV and CardDAV server for managing calendars and contacts.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/baikal/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/baikal/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/baikal",
+      "compose_url": "https://registry.mifi.xyz/templates/baikal/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/baikal/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/baikal",
       "tags": ["Calendar", "CalDAV", "CardDAV", "Contacts"]
     },
     {
@@ -34,9 +34,9 @@
       "description": "Client-side PDF toolkit",
       "version": "1.0.0",
       "author": "xPand4B",
-      "compose_url": "https://registry.getarcane.app/templates/bento-pdf/docker-compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/bento-pdf/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/bento-pdf",
+      "compose_url": "https://registry.mifi.xyz/templates/bento-pdf/docker-compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/bento-pdf/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/bento-pdf",
       "tags": ["Productivity", "PDF"]
     },
     {
@@ -45,9 +45,9 @@
       "description": "Tunneling daemon for proxying traffic from the Cloudflare network",
       "version": "1.0.0",
       "author": "xPand4B",
-      "compose_url": "https://registry.getarcane.app/templates/cloudflared/docker-compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/cloudflared/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/cloudflared",
+      "compose_url": "https://registry.mifi.xyz/templates/cloudflared/docker-compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/cloudflared/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/cloudflared",
       "tags": ["networking", "cloudflare", "tunneling"]
     },
     {
@@ -56,9 +56,9 @@
       "description": "Remote development with VS Code",
       "version": "1.0.0",
       "author": "xPand4B",
-      "compose_url": "https://registry.getarcane.app/templates/code-server/docker-compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/code-server/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/code-server",
+      "compose_url": "https://registry.mifi.xyz/templates/code-server/docker-compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/code-server/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/code-server",
       "tags": ["development", "vs-code", "remote"]
     },
     {
@@ -67,9 +67,9 @@
       "description": "File converter. Supports 1000+ formats.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/convertx/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/convertx/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/convertx",
+      "compose_url": "https://registry.mifi.xyz/templates/convertx/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/convertx/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/convertx",
       "tags": ["Tools", "Converter"]
     },
     {
@@ -78,9 +78,9 @@
       "description": "Real-time Docker log viewer.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/dozzle/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/dozzle/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/dozzle",
+      "compose_url": "https://registry.mifi.xyz/templates/dozzle/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/dozzle/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/dozzle",
       "tags": ["monitoring", "logging", "docker"]
     },
     {
@@ -89,9 +89,9 @@
       "description": "Endurain is a fitness tracking with control over their data and hosting environment.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/endurain/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/endurain/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/endurain",
+      "compose_url": "https://registry.mifi.xyz/templates/endurain/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/endurain/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/endurain",
       "tags": ["fitness", "gps-tracker"]
     },
     {
@@ -100,9 +100,9 @@
       "description": "App that resizes and crops images on the fly.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/flyimg/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/flyimg/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/flyimg",
+      "compose_url": "https://registry.mifi.xyz/templates/flyimg/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/flyimg/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/flyimg",
       "tags": ["Tools"]
     },
     {
@@ -111,9 +111,9 @@
       "description": "Make beautiful isometric infrastructure diagrams.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/fossflow/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/fossflow/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/fossflow",
+      "compose_url": "https://registry.mifi.xyz/templates/fossflow/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/fossflow/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/fossflow",
       "tags": ["tools", "infra", "devops"]
     },
     {
@@ -122,9 +122,9 @@
       "description": "A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.",
       "version": "1.0.0",
       "author": "Community",
-      "compose_url": "https://registry.getarcane.app/templates/homepage/compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/homepage/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/homepage",
+      "compose_url": "https://registry.mifi.xyz/templates/homepage/compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/homepage/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/homepage",
       "tags": ["homepages", "dashboards"]
     },
     {
@@ -133,9 +133,9 @@
       "description": "Youtube alternative front-end.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/invidious/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/invidious/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/invidious",
+      "compose_url": "https://registry.mifi.xyz/templates/invidious/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/invidious/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/invidious",
       "tags": ["youtube"]
     },
     {
@@ -144,9 +144,9 @@
       "description": "Collection of online tools for developers.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/ittools/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/ittools/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/ittools",
+      "compose_url": "https://registry.mifi.xyz/templates/ittools/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/ittools/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/ittools",
       "tags": ["Tools"]
     },
     {
@@ -155,9 +155,9 @@
       "description": "Stream Video and Audio to your devices.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/jellyfin-server/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/jellyfin-server/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/jellyfin-server",
+      "compose_url": "https://registry.mifi.xyz/templates/jellyfin-server/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/jellyfin-server/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/jellyfin-server",
       "tags": ["media", "streaming"]
     },
     {
@@ -166,9 +166,9 @@
       "description": "Style and Grammar Checker for 25+ Languages.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/languagetool/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/languagetool/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/languagetool",
+      "compose_url": "https://registry.mifi.xyz/templates/languagetool/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/languagetool/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/languagetool",
       "tags": ["Tools"]
     },
     {
@@ -177,9 +177,9 @@
       "description": "Open Source alternative to OpenAI.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/localai/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/localai/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/localai",
+      "compose_url": "https://registry.mifi.xyz/templates/localai/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/localai/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/localai",
       "tags": ["AI", "LLM", "ChatGPT", "OpenAI"]
     },
     {
@@ -188,9 +188,9 @@
       "description": "Open source relational SQL database.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/mariadb/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/mariadb/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/mariadb",
+      "compose_url": "https://registry.mifi.xyz/templates/mariadb/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/mariadb/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/mariadb",
       "tags": ["SQL", "MySQL"]
     },
     {
@@ -199,9 +199,9 @@
       "description": "A self-hosted local image optimizer that runs in your browser.",
       "version": "1.0.0",
       "author": "xPand4B",
-      "compose_url": "https://registry.getarcane.app/templates/mazanoke/compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/mazanoke/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/mazanoke",
+      "compose_url": "https://registry.mifi.xyz/templates/mazanoke/compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/mazanoke/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/mazanoke",
       "tags": ["image", "optimizer", "resizer", "compression"]
     },
     {
@@ -210,9 +210,9 @@
       "description": "Self-hosted YouTube downloader.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/metube/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/metube/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/metube",
+      "compose_url": "https://registry.mifi.xyz/templates/metube/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/metube/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/metube",
       "tags": ["youtube"]
     },
     {
@@ -221,9 +221,9 @@
       "description": "The modern spam protection.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/mosparo/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/mosparo/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/mosparo",
+      "compose_url": "https://registry.mifi.xyz/templates/mosparo/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/mosparo/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/mosparo",
       "tags": ["Tools"]
     },
     {
@@ -232,9 +232,9 @@
       "description": "☁️ Nextcloud server, a safe home for all your data.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/nextcloud/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/nextcloud/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/nextcloud",
+      "compose_url": "https://registry.mifi.xyz/templates/nextcloud/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/nextcloud/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/nextcloud",
       "tags": ["file-sharing", "collaboration", "storage", "cloud"]
     },
     {
@@ -243,9 +243,9 @@
       "description": "Self-hosted collection of powerful web-based tools for everyday tasks.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/omnitools/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/omnitools/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/omnitools",
+      "compose_url": "https://registry.mifi.xyz/templates/omnitools/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/omnitools/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/omnitools",
       "tags": ["Tools"]
     },
     {
@@ -254,9 +254,9 @@
       "description": "One Time Secret is a secure password sharing application. Keep sensitive information out of your email & chat logs.",
       "version": "1.0.0",
       "author": "lesi97",
-      "compose_url": "https://registry.getarcane.app/templates/one-time-secret/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/one-time-secret/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/one-time-secret",
+      "compose_url": "https://registry.mifi.xyz/templates/one-time-secret/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/one-time-secret/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/one-time-secret",
       "tags": ["Security", "Productivity", "Utilities"]
     },
     {
@@ -265,9 +265,9 @@
       "description": "Linux Patch Monitoring Automation Platform.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/patchmon/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/patchmon/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/patchmon",
+      "compose_url": "https://registry.mifi.xyz/templates/patchmon/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/patchmon/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/patchmon",
       "tags": ["tools", "linux"]
     },
     {
@@ -276,9 +276,9 @@
       "description": "pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.",
       "version": "1.0.0",
       "author": "Community",
-      "compose_url": "https://registry.getarcane.app/templates/pgadmin/compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/pgadmin/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/pgadmin",
+      "compose_url": "https://registry.mifi.xyz/templates/pgadmin/compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/pgadmin/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/pgadmin",
       "tags": ["database", "postgresql"]
     },
     {
@@ -287,9 +287,9 @@
       "description": "A black hole (DNS/DHCP) for Internet advertisements.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/pi-hole/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/pi-hole/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/pi-hole",
+      "compose_url": "https://registry.mifi.xyz/templates/pi-hole/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/pi-hole/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/pi-hole",
       "tags": ["DNS", "DHCP", "DNSMASQ", "NTP"]
     },
     {
@@ -298,9 +298,9 @@
       "description": "Youtube media manager.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/pinchflat/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/pinchflat/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/pinchflat",
+      "compose_url": "https://registry.mifi.xyz/templates/pinchflat/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/pinchflat/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/pinchflat",
       "tags": ["youtube", "youtube-dl"]
     },
     {
@@ -309,9 +309,9 @@
       "description": "Media streaming server for movies, televisions shows, and music.",
       "version": "1.0.0",
       "author": "xPand4B",
-      "compose_url": "https://registry.getarcane.app/templates/plex/docker-compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/plex/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/plex",
+      "compose_url": "https://registry.mifi.xyz/templates/plex/docker-compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/plex/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/plex",
       "tags": ["media", "streaming", "plex"]
     },
     {
@@ -320,9 +320,9 @@
       "description": "A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.",
       "version": "1.1.0",
       "author": "Community",
-      "compose_url": "https://registry.getarcane.app/templates/pocket-id/compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/pocket-id/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/pocket-id",
+      "compose_url": "https://registry.mifi.xyz/templates/pocket-id/compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/pocket-id/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/pocket-id",
       "tags": ["oidc"]
     },
     {
@@ -331,9 +331,9 @@
       "description": "Open source relational database.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/postgresql16/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/postgresql16/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/postgresql16",
+      "compose_url": "https://registry.mifi.xyz/templates/postgresql16/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/postgresql16/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/postgresql16",
       "tags": ["SQL"]
     },
     {
@@ -342,9 +342,9 @@
       "description": "Open source relational database.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/postgresql17/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/postgresql17/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/postgresql17",
+      "compose_url": "https://registry.mifi.xyz/templates/postgresql17/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/postgresql17/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/postgresql17",
       "tags": ["SQL"]
     },
     {
@@ -353,9 +353,9 @@
       "description": "Open source relational database.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/postgresql18/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/postgresql18/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/postgresql18",
+      "compose_url": "https://registry.mifi.xyz/templates/postgresql18/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/postgresql18/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/postgresql18",
       "tags": ["SQL"]
     },
     {
@@ -364,9 +364,9 @@
       "description": "Website analytics without cookies.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/rybbit/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/rybbit/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/rybbit",
+      "compose_url": "https://registry.mifi.xyz/templates/rybbit/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/rybbit/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/rybbit",
       "tags": ["analytics"]
     },
     {
@@ -375,9 +375,9 @@
       "description": "Unofficial Satisfactory Dedicated Server image for hosting your own Satisfactory game server.",
       "version": "1.0.1",
       "author": "xPand4B",
-      "compose_url": "https://registry.getarcane.app/templates/satisfactory-server/compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/satisfactory-server/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/satisfactory-server",
+      "compose_url": "https://registry.mifi.xyz/templates/satisfactory-server/compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/satisfactory-server/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/satisfactory-server",
       "tags": ["satisfactory", "game", "gameserver"]
     },
     {
@@ -386,9 +386,9 @@
       "description": "Free and open source software for managing requests for your media library.",
       "version": "1.0.0",
       "author": "xPand4B",
-      "compose_url": "https://registry.getarcane.app/templates/seerr/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/seerr/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/seerr",
+      "compose_url": "https://registry.mifi.xyz/templates/seerr/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/seerr/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/seerr",
       "tags": ["media", "streaming", "requests", "jellyfin", "plex", "seerr"]
     },
     {
@@ -397,9 +397,9 @@
       "description": "String toolkit for developers.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/string-is/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/string-is/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/string-is",
+      "compose_url": "https://registry.mifi.xyz/templates/string-is/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/string-is/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/string-is",
       "tags": ["Tools"]
     },
     {
@@ -408,9 +408,9 @@
       "description": "SWAG - Secure Web Application Gateway, sets up an Nginx webserver and reverse proxy with php support and a built-in certbot client that automates free SSL server certificate generation and renewal processes (Let's Encrypt and ZeroSSL).",
       "version": "1.0.0",
       "author": "lesi97",
-      "compose_url": "https://registry.getarcane.app/templates/swag/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/swag/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/swag",
+      "compose_url": "https://registry.mifi.xyz/templates/swag/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/swag/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/swag",
       "tags": ["Network", "Web", "Security"]
     },
     {
@@ -419,9 +419,9 @@
       "description": "Editor for APIs in the OpenAPI Specification.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/swagger-editor/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/swagger-editor/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/swagger-editor",
+      "compose_url": "https://registry.mifi.xyz/templates/swagger-editor/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/swagger-editor/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/swagger-editor",
       "tags": ["Tools", "API", "OpenAPI"]
     },
     {
@@ -430,9 +430,9 @@
       "description": "Local and remote peer-to-peer file synchronization tool.",
       "version": "1.0.0",
       "author": "xPand4B",
-      "compose_url": "https://registry.getarcane.app/templates/syncthing/docker-compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/syncthing/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/syncthing",
+      "compose_url": "https://registry.mifi.xyz/templates/syncthing/docker-compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/syncthing/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/syncthing",
       "tags": ["file-sync", "file-transfer", "backup", "syncthing", "p2p"]
     },
     {
@@ -441,9 +441,9 @@
       "description": "Monitoring and tracking tool for Plex Media Server",
       "version": "1.0.0",
       "author": "xPand4B",
-      "compose_url": "https://registry.getarcane.app/templates/tautulli/docker-compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/tautulli/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/tautulli",
+      "compose_url": "https://registry.mifi.xyz/templates/tautulli/docker-compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/tautulli/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/tautulli",
       "tags": ["media", "streaming", "tautulli", "plex", "monitoring"]
     },
     {
@@ -452,9 +452,9 @@
       "description": "Easy-to-use self-hosted uptime monitoring tool.",
       "version": "1.0.0",
       "author": "xPand4B",
-      "compose_url": "https://registry.getarcane.app/templates/uptime-kuma/docker-compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/uptime-kuma/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/uptime-kuma",
+      "compose_url": "https://registry.mifi.xyz/templates/uptime-kuma/docker-compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/uptime-kuma/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/uptime-kuma",
       "tags": ["monitoring", "uptime"]
     },
     {
@@ -463,9 +463,9 @@
       "description": "Unofficial Bitwarden compatible server written in Rust.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/vaultwarden/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/vaultwarden/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/vaultwarden",
+      "compose_url": "https://registry.mifi.xyz/templates/vaultwarden/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/vaultwarden/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/vaultwarden",
       "tags": ["password-manager", "bitwarden"]
     },
     {
@@ -474,9 +474,9 @@
       "description": "Verdaccio is a simple, zero-config-required local private NPM registry. No need for an entire database just to get started. Verdaccio comes out of the box with its own tiny database, and the ability to proxy other registries (eg. npmjs.org), also introduces caching the downloaded modules along the way. For those who are looking to extend their storage capabilities, Verdaccio supports various community-made plugins to hook into services such as Amazon's S3, Google Cloud Storage or create your own plugin.",
       "version": "1.0.0",
       "author": "lesi97",
-      "compose_url": "https://registry.getarcane.app/templates/verdaccio/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/verdaccio/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/verdaccio",
+      "compose_url": "https://registry.mifi.xyz/templates/verdaccio/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/verdaccio/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/verdaccio",
       "tags": ["Utilities", "Productivity"]
     },
     {
@@ -485,9 +485,9 @@
       "description": "All-in-one OSINT tool for analysing any website.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/web-check/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/web-check/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/web-check",
+      "compose_url": "https://registry.mifi.xyz/templates/web-check/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/web-check/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/web-check",
       "tags": ["security", "privacy"]
     },
     {
@@ -496,9 +496,9 @@
       "description": "WireGuard is a secure, fast, and relatively simple VPN protocol used to establish encrypted connections between devices",
       "version": "1.0.0",
       "author": "Community",
-      "compose_url": "https://registry.getarcane.app/templates/wireguard/compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/wireguard/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/wireguard",
+      "compose_url": "https://registry.mifi.xyz/templates/wireguard/compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/wireguard/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/wireguard",
       "tags": ["networking", "vpn"]
     },
     {
@@ -507,9 +507,9 @@
       "description": "Your self-hosted crochet and knitting companion. Organize your patterns, track your projects, and share your creations with the world.",
       "version": "1.0.0",
       "author": "xPand4B",
-      "compose_url": "https://registry.getarcane.app/templates/yarnl/compose.yaml",
-      "env_url": "https://registry.getarcane.app/templates/yarnl/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/yarnl",
+      "compose_url": "https://registry.mifi.xyz/templates/yarnl/compose.yaml",
+      "env_url": "https://registry.mifi.xyz/templates/yarnl/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/yarnl",
       "tags": ["hobby", "crafting", "yarn", "knitting", "crochet"]
     },
     {
@@ -518,9 +518,9 @@
       "description": "General purpose HTTP reverse proxy and forwarding tool.",
       "version": "1.0.0",
       "author": "rjcndev",
-      "compose_url": "https://registry.getarcane.app/templates/zoraxy/compose.yml",
-      "env_url": "https://registry.getarcane.app/templates/zoraxy/.env.example",
-      "documentation_url": "https://github.com/getarcaneapp/templates/tree/main/templates/zoraxy",
+      "compose_url": "https://registry.mifi.xyz/templates/zoraxy/compose.yml",
+      "env_url": "https://registry.mifi.xyz/templates/zoraxy/.env.example",
+      "documentation_url": "https://github.com/guigeng/arcane-templates/tree/main/templates/zoraxy",
       "tags": ["reverse-proxy"]
     }
   ]
